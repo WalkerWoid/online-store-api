@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Notebook", 
-    "price": 2000
+    "title": "Ноутбук", 
+    "price": 110000
   },
   {
     "id": 2,
-    "title": "Mouse", 
-    "price": 20
+    "title": "Мышь", 
+    "price": 9000
   },
   {
     "id": 3,
-    "title": "Keyboard", 
-    "price": 35
+    "title": "Клавиатура", 
+    "price": 11000
   },
   {
     "id": 4,
-    "title": "Gamepad", 
-    "price": 65
+    "title": "Геймпад", 
+    "price": 7800
   },
   {
     "id": 5,
-    "title": "Joystick", 
-    "price": 100
+    "title": "Джойстик", 
+    "price": 3000
   },
   {
     "id": 6,
-    "title": "Gaming chair", 
-    "price": 2000 
+    "title": "Игровое кресло", 
+    "price": 60000 
   }
 ]
